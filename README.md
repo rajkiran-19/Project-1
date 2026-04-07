@@ -1,7 +1,7 @@
 # Project-1
 Sample POC
 
-Project 2: Your Sample Use Case (To Build)
+Project 1: Your Sample Use Case (To Build)
 Use Case: "E-Commerce Product Performance Tracker"
 You need to analyze which product categories are generating the most revenue based on daily sales files.
 Your Task: Design and Build
