@@ -1,0 +1,8 @@
+[
+  {"product_id": "P001", "category": "Electronics", "brand": "TechMax"},
+  {"product_id": "P002", "category": "Kitchen", "brand": "HomeChef"},
+  {"product_id": "P003", "category": "Apparel", "brand": "FitWear"},
+  {"product_id": "P004", "category": "Electronics", "brand": "TechMax"},
+  {"product_id": "P005", "category": "Kitchen", "brand": "HomeChef"},
+  {"product_id": "P006", "category": "Apparel", "brand": "FitWear"}
+]
